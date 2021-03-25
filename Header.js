@@ -6,7 +6,7 @@ const Header = (props) => {
     )
 }
 
-//System creating a default message if you don't write any title for Header item on app.js.
+//System creates a default message if you don't write any title for Header item on app.js.
 Header.defaultProps = {
     title: 'Default Message',
 }
